@@ -1,0 +1,8 @@
+{
+    "delay" : 700,
+    "webhook_url" : "https://discord.com/api/webhooks/WEBHOOK_URL",
+
+    "//NSFW setting info": "safe, questionable and explicit.",
+
+    "nsfwSetting" : ["safe"] 
+}

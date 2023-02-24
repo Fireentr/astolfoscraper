@@ -1,0 +1,23 @@
+{
+  "name": "ziuebotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6"
+  },
+  "dependencies": {
+    "@prince25/discord-webhook-sender": "^1.2.3",
+    "center-align": "^1.0.1",
+    "colors": "^1.4.0",
+    "discord-webhook-node": "^1.1.8",
+    "node-fetch": "^3.3.0",
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
