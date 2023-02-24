@@ -1,4 +1,3 @@
-const mineflayer = require('mineflayer')
 const { Worker, isMainThread } = require('worker_threads');
 var colors = require('colors/safe');
 var center = require('center-align');
